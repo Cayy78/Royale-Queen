@@ -7,6 +7,6 @@
   
   <!-- <input type="Submit" class="form-control bg-info" 
    name="insert-cat" value="Insert categories" >-->
-   <button class="bg-info p-2 my-3 border-0">Insert</button>
+   <button class="bg-info p-2 my-3 border-0">Insert Brands</button>
 </div>
 </form>
